@@ -14,7 +14,6 @@ public class Exercise08 {
     // etc.
     public static void whileLoop(int num) {
         int valor = 0
-            
         while (valor < num) {
             System.out.println(valor + " < " + num + ". El proximo ciclo valdra: " + (valor + 1));
             valor++;
